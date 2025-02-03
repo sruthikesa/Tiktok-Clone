@@ -1,10 +1,9 @@
-# TikTok Clone NextJs 13 / (tiktok-clone-nextjs)
+# TikTok Clone
 
 ## App Setup (localhost)
 
 ```
-git clone https://github.com/sruthikesa/tiktok-clone-nextjs.git
-
+git clone https://github.com/sruthikesa/Tiktok-Clone.git
 copy .env.example .env
 ```
 
